@@ -5,19 +5,18 @@
 
 - name: Best HDR TVs of 2016
   desc: |
-    Only the best: our favorite picks from the HDR TVs we've tested for 2016.
+    Only the best: our favorite picks from the 4K HDR TVs we've tested for 2016.
   tag_name: bestof2016
 
-- name: Product Development
+- name: HDR TV Reviews
   desc: |
-    Lessons and experiences in validating, building, and supporting software products
-  tag_name: product_dev
+    We review 4K HDR TVs and help you decide which is for you.
+  tag_name: reviews
 
-- name: Practices
+- name: In the Loop
   desc: |
-    Real-world experiences with agile techniques &amp; 
-    challenging dogmatic practices
-  tag_name: practices
+    Be better informed. News from technology world that are updated daily.
+  tag_name: news
 
 - name: Reflections
   desc: |
