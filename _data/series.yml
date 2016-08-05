@@ -18,19 +18,7 @@
     Be better informed. News from technology world that are updated daily.
   tag_name: news
 
-- name: Reflections
+- name: Deals Galore
   desc: |
-    Looking back critically, in both personal &amp; professional 
-    contexts
-  tag_name: reflections
-
-- name: Tangential
-  desc: |
-    The intersection of software and other crafts &amp; 
-    professions
-  tag_name: tangential
-
-- name: Engineering in Android
-  desc: |
-    Applying best-practices &amp; techniques to Android development
-  tag_name: android
+    Save more from awesome deals and special offers.
+  tag_name: deals
