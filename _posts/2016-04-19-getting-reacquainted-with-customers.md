@@ -11,7 +11,7 @@ tags:
 
 I'm doing product development over the next few months for [Morale][morale], a team mood tracking application I built [several years ago][intra].
 
-Morale was opened to the public in late 2012 and since then we've had a steady trickle of signups while the app has been in maintenance mode. Four years later, I realized that I didn't have a great sense of our users so I wanted to re-engage and collect very general feedback.
+aMorale was opened to the public in late 2012 and since then we've had a steady trickle of signups while the app has been in maintenance mode. Four years later, I realized that I didn't have a great sense of our users so I wanted to re-engage and collect very general feedback.
 
 Our infrastructure is bare-bones at the moment so the first task was to actually collect a list of email addresses. The app works primarily through email (daily emails to log mood, weekly email summaries) but outside of those transactional emails, we've had no contact with users.
 
