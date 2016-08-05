@@ -285,7 +285,7 @@ p.ism-badge a.ism-link:hover {
 
 #slider {
     width: 100%;
-    -webkit-border-radius: 5px; border-radius: 5px; 
+    border-radius: 0;
 }
 
 #slider-ism-badge {
@@ -343,8 +343,8 @@ p.ism-badge a.ism-link:hover {
 
 #slider .ism-radios label {
     width: 20px; height: 20px;
-    border-radius: 3px;
-    color: #000; background-color: rgba(0, 0, 0, 0.2); border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 0;
+    color: #000; background-color: rgba(255, 255, 255, 0.5);
 }
 
 #slider .ism-radios li.active label {
@@ -352,7 +352,7 @@ p.ism-badge a.ism-link:hover {
 }
 
 #slider .ism-radios label:hover {
-    border: 2px solid rgba(255, 255, 255, 1.0);
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 
