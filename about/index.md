@@ -4,30 +4,20 @@ title: About
 skip_related: true
 ---
 
-Hi. I'm Matt Swanson. Test.
+Hi. I'm Earl Peres.
 
-I'm a software engineer who values lightweight agile processes, TDD, and good design. But above all: shipping.
+I, together with a couple of friends, started blogging reviews of Android tablets back in 2008. Now we've moved on to demystifying a swanky new technology: High Dynamic Range 4k Televisions. 
 
-I enjoy building simple apps that people love using.
+Our goal would be sifting to the technical verbiage that looms the technology world in order to give better informed lucid opinions to our buyers.
 
-I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at [Purdue University](http://www.purdue.edu/) ([ECE &rsquo;10](https://engineering.purdue.edu/ECE)). I do a little bit of everything, but I'm happiest working with Ruby or Android.
-
----
-
-I'm always learning and trying to improve my craft; I consider writing software to be one of my most enjoyable hobbies and usually have some kind of side-project I'm hacking on. I come at problems with an Engineer's Mindset and am always striving to write clean, readable code.
-
-I run a monthly newsletter for Indiana developers ([Indy Hackers](http://indyhackers.org/)) and organize a weekly "get stuff done" group ([Indy Startup Lab](http://indystartuplab.org)). I'm a regular speaker at the local Ruby meetup ([IndyRB](http://indyrb.org)). I also help run an infrequent table tennis league for tech companies in the Indianapolis area ([ITTTL](http://itttl.org)). I spearheaded an [internal "Startup Weekend" event](http://www.sep.com/labs/startupweekend/) at SEP that has been going on for four years now.
-
-I watch way too much TV.
+We hope you enjoy the site.
 
 ---
 
-## Let's talk.
 
-You can reach me at [`matt@mdswanson.com`][email] or [`@_swanson`][twitter]. (No recruiters please)
+## Disclaimer
 
-This blog is [open source][os] - spelling/grammar corrections are always welcome (and much appreciated) via Pull Requests.
 
-[os]: https://github.com/swanson/swanson.github.com
-[email]: mailto:matt@mdswanson.com
-[twitter]: https://twitter.com/_swanson
+Disclaimer: MyHDRTV.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
+
+

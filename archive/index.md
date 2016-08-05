@@ -10,7 +10,7 @@ skip_related: true
   {% assign totalwords = totalwords | plus: wordcount %}
 {% endfor %}
 
-Archive of our entire site. All posts totalling {{ totalwords }} arranged in chronological order. Includes reviews, news, and random quirks.
+Archive of our entire site. All posts totalling {{ totalwords }} words arranged in chronological order. Includes reviews, news, and random quirks.
 
 <div id="archive">
 {% for post in site.posts %}
