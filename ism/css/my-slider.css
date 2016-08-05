@@ -15,6 +15,7 @@
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
   background-clip: padding-box;
+    margin-bottom:8%;
 }
 @-webkit-keyframes ism-fadein {
   from { opacity: 0; }
