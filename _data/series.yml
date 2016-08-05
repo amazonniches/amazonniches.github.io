@@ -1,8 +1,7 @@
-- name: Growth
+- name: HDR Technology Explainers
   desc: |
-    The journey towards senior engineer, with an emphasis on soft 
-    skills &amp; professional growth
-  tag_name: growth
+    What is HDR (High Dynamic Range) and why is it important? In these articles, we take a close look.
+  tag_name: explainers
 
 - name: Delightful Products
   desc: |
