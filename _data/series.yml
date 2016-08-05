@@ -1,12 +1,12 @@
-- name: HDR Technology Explainers
+- name: HDR Technology Explained:
   desc: |
-    What is HDR (High Dynamic Range) and why is it important? In these articles, we take a close look.
+    What is HDR (High Dynamic Range) and why is it important? In these articles, we take a closer look.
   tag_name: explainers
 
-- name: Delightful Products
+- name: Best HDR TVs of 2016
   desc: |
-    Thoughts on building simple products that people love
-  tag_name: delightful_products
+    Only the best: our favorite picks from the HDR TVs we've tested for 2016.
+  tag_name: bestof2016
 
 - name: Product Development
   desc: |
