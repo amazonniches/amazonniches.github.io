@@ -8,7 +8,7 @@ Hi. I'm Earl Peres.
 
 I, together with a couple of friends, started blogging reviews of Android tablets back in 2008. Now we've moved on to demystifying a rather new technology: High Dynamic Range 4k Televisions. 
 
-Our goal would be sifting to the technical verbiage that looms the technology world in order to give better informed lucid opinions to our buyers.
+Our goal would be sifting to the technical verbiage that looms the technology world in order to give better informed lucid opinions to possible buyers.
 
 We hope you enjoy the site.
 
