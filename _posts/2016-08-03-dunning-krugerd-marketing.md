@@ -4,7 +4,7 @@ title: "How I Dunning-Kruger'd Marketing"
 categories:
 - blog
 tags:
-- product_dev
+- growth
 ---
 
 I find it easy to rattle off a few marketing ideas for software products. I've read enough HackerNews and pop-business books to know the gist of it. 
