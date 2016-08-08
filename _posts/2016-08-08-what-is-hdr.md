@@ -19,7 +19,7 @@ Just as consumers thought that TV technology had reached its peak, manufacturers
 
 What makes **HDR** so special is that it emphasizes the range of contrast and different colours. With HDR Television or any device compatible with it, you can view content in a richer range of colours. Shallow contrasts will be emphasized to incorporate every detail, whites can be brighter and sparkle with life and darks have more depths to them. HDR viewing is all about detailed brilliance. It simply brings to your view everything that your eye should see but that the limitations of previous technologies have denied you.
 
-![MacDown Screenshot](http://d.pr/i/10UGP+)
+![Panasonic showing off crisp accurate colors](http://myhdrtv.com/static/1b.jpg)
 
 While lighting has always affected how much details can be captured as content and to what depths, **HDR** makes it possible to create a surreal or real world. With *Wide Colour Gamut* (WCG), HDR reveals more colours that TVs have not been able to depict. The faintest differences in colur shades are revealed and the different patches of colour that create more details on a feature are also revealed. In a more common language, HDR television and compatible devices will show you the fifty shades of gray in their fifty shades.
 
