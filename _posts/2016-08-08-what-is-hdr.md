@@ -7,14 +7,13 @@ tags:
 - explainers
 ---
 
-# What exactly are HDR TVs?
-
-![MacDown logo](http://macdown.uranusjr.com/static/base/img/logo-160.png)
+![TVs in display](http://myhdrtv.com/static/1a.jpg)
 
 Just as consumers thought that TV technology had reached its peak, manufacturers find more space to squeeze new innovations. With companies rapidly churning out buzzwords like [4K](http://amzn.to/2b0bAZC), [OLED](http://amzn.to/2b75rJr), and Ultra HD, high-resolution viewership has been on a staggering increase. Now a new technology seems to be the new talk of the town: High Dynamic Range Televisions.
 
 
 ## HDR, what?	
+
 
 **HDR** is is, arguably, the latest thing to happen in television history. While the term is relatively familiar in the field of photography, it has been slowly starting to get popular in the lingo of TVphiles. For years now, a lot of talk has been going round and about concerning this technology and many have been awaiting its unveiling which is already happening. HDR means High Dynamic Range and is capable of utterly influencing viewers experience in gaming and television.
 
