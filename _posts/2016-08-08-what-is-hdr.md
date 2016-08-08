@@ -39,13 +39,15 @@ This is not a reason to worry though, if anything, content creators are very ada
 
 Beyond direct TV viewing or online streaming is the option of creating HDR discs. Ultra-HD Blu ray can make this happen once you play on the Ultra HD Blu ray players. HDR viewing is also available on mobile device with Samsung Galaxy Note-7 being the first in the series.
 
-### Does it make a noticeable differenace?
+### Does it make a noticeable difference?
+
+![Colors](http://myhdrtv.com/static/1d.jpg)
 
 One real question you are probably asking yourself is that does it really make a difference and the succinct answer is yes it does. While you probably won’t feel like you have never watched TV before when comparing 4K or other “Legacy Televisions” to HDR, you are sure to derive better and more satisfying experience from an HDR viewing because it is simply better.
 
-### I'm sold! Which TV do I get?
+## I'm sold! Which TV do I get?
 
 While most of these TVs have been working before the eventual release of HDR technology for public consumption, these models are high end with HDR compatibility.
 
-Some 4K TVs that support HDR are: Panasonic Viera TX-55CX7802, LG 55EG960V, Philips PUS8601, Hisense 43H7C. It also includes SUHD TV like Samsung KS9500 and OLED TV, for example, LG Signature G6. Other brands that support HDR are Vizio, Sony, and TCL.
+Some 4K TVs that support HDR include: [Samsung UN55KU6300](http://amzn.to/2b0izlb), [LG 55UH6150](http://amzn.to/2b7cYIi), [Sony XBR55X850D](http://amzn.to/2b0j9zl). Budget offering like [Hisense 50H8C](http://amzn.to/2aG4Lvk) are also starting to get more popular. We'll be rigorously reviewing these TVs in the coming days.
 
