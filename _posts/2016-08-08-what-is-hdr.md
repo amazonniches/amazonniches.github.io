@@ -17,9 +17,11 @@ Just as consumers thought that TV technology had reached its peak, manufacturers
 
 **HDR** is is, arguably, the latest thing to happen in television history. While the term is relatively familiar in the field of photography, it has been slowly starting to get popular in the lingo of TVphiles. For years now, a lot of talk has been going round and about concerning this technology and many have been awaiting its unveiling which is already happening. HDR means High Dynamic Range and is capable of utterly influencing viewers experience in gaming and television.
 
+![Panasonic showing off crisp accurate colors](http://myhdrtv.com/static/1b.jpg)
+
 What makes **HDR** so special is that it emphasizes the range of contrast and different colours. With HDR Television or any device compatible with it, you can view content in a richer range of colours. Shallow contrasts will be emphasized to incorporate every detail, whites can be brighter and sparkle with life and darks have more depths to them. HDR viewing is all about detailed brilliance. It simply brings to your view everything that your eye should see but that the limitations of previous technologies have denied you.
 
-![Panasonic showing off crisp accurate colors](http://myhdrtv.com/static/1b.jpg)
+
 
 While lighting has always affected how much details can be captured as content and to what depths, **HDR** makes it possible to create a surreal or real world. With *Wide Colour Gamut* (WCG), HDR reveals more colours that TVs have not been able to depict. The faintest differences in colur shades are revealed and the different patches of colour that create more details on a feature are also revealed. In a more common language, HDR television and compatible devices will show you the fifty shades of gray in their fifty shades.
 
@@ -30,6 +32,8 @@ Unfortunately, before there was any general consensus on the definitions, applic
 ### Caveat emptor
 
 Another important thing to note is that just because you have an HDRTV or a TV that is HDR compatible doesn’t mean you will begin to view all contents in HDR format. That is far from the truth. The ultimate experience offered by HDR viewing is the product of a symbiotic relationship between the content creators and the HDR devices used to view the content. This means if the content was not created with HDR compatible devices, it can’t be seen in HDR even if the device is HDR compatible. As of now, it is a rarity to find contents produced with 4k resolution not to mention, HDR TV. 
+
+![Marco Polo by Netflix](http://myhdrtv.com/static/1c.jpg)
 
 This is not a reason to worry though, if anything, content creators are very adaptable and are usually at the forefront of any improved technology, a strong case for this is Amazon that has released contents in HDR format and that is steadily working to increase releases.
 
