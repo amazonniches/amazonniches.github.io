@@ -4,7 +4,7 @@ title: "What exactly are HDR TVs?"
 categories:
 - blog
 tags:
--
+- explainers
 ---
 
 # What exactly are HDR TVs?
