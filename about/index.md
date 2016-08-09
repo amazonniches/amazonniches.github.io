@@ -4,7 +4,8 @@ title: About
 skip_related: true
 ---
 ---
-## All you need to know about HDR 4K TV’s – news, consumer information, reviews, and much more. 
+
+### All you need to know about HDR 4K TV’s – news, consumer information, reviews, and much more. 
 Welcome to MyHDRTV, a comprehensive informational site providing all kinds of information and reviews about HDR 4K TV’s. With the rise in 4K TV technology and almost all major manufacturers jumping on board with their own innovative products, there is much to know and learn for anyone who’s interested. Our mission here at MyHDRTV is to provide all kinds of information under one roof – from news and updates to authentic reviews, consumer information, and much more.MyHDRTV is the work of a group of tech geeks who love staying up to date about technology. Our main focus is HDR 4K because we love the technology it offers and consider it no less than revolutionary in the world of television viewing. To help more people get to know about 4K TV’s and learn all there is to know about the technology, we started this blog as an online, go-to informational resource and review site for HDR 4K TV’s. 
 
 --
