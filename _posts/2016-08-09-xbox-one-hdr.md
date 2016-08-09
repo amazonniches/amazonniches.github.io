@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What exactly are HDR TVs?"
+title: "Xbox One S and HDR"
 categories:
 - blog
 tags:
