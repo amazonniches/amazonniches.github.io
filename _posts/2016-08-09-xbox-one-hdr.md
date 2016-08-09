@@ -6,6 +6,7 @@ categories:
 tags:
 - news
 ---
+![Xbox One S](http://myhdrtv.com/static/3a.jpg)
 
 Slick but packs a punch: the Xbox One S is surely the gaming console to grab. In a new iteration of its famed console, Microsoft introduces Xbox One S with an extremely powerful HDR (High Dynamic Range) upgrade as well as the ability to display in 4k. 
 
@@ -24,6 +25,8 @@ If your TV can support 4K HDR (3840x2160 at 60 Hz) but you weren't able to displ
 
 ### HDR Content
 Not so fast. Just because you have an HDR compatible TV and a brand-new Xbox One S doesn't mean all videos will magically transform to vivid and accurate 4K HDR wonder—you'd still need compatible content. A good example is Netflix and [Amazon Video](http://www.amazon.com/gp/video/primesignup?tag=). Just a few select titles were shot in 4K HDR for Netflix/Amazon and it's crucial to check Some Netflix streaming plans also don't have the ability to access these 4K HDR titles. Earlier Blu rays may not display in 4K HDR either. 
+
+---
 
 
 ### Takeaway
