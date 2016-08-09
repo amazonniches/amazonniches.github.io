@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Xbox One S and HDR"
+title: "What exactly are HDR TVs?"
 categories:
 - blog
 tags:
-- news
+- explainers
 ---Slick but packs a punch: The Xbox One S is definitely the futureproofed console to grab. The latest iteration from Microsoft's famed console has an extremely powerful HDR (High Dynamic Range) upgrade as well as the ability to display in 4k. Of course this new console is so much more than just these two features and it is these improvements that have gamers that love Xbox lining up for the newest version of the device. The XBOX onme S features an ultra HD Blu-ray device, the ability to display in 4K, provide video streaming in 4k as well as a high dynamic range for new compatible Xbox one games. If you are planning on picking up one of these consoles it's a very good idea that you also pick up a TV that is capable of displaying in 4K video settings. 
 There are three main things that you will definitely need to get the most out of your new Xbox one S:The device: The newest version of the Xbox one S does have the ability to display in 4K HD. Older versions of the console will not be up converting with software and hardware found in these devices is not compatible with the higher HD quality of 4k. A 4k compatible TV: You can generally find if your TV is capable of displaying in 4K via the packaging for your TV or through the manual for your TV. Various manufacturers will have different names for the display ratio. Some of the most common things that you should look for our names like 4K ultra HD, UHD, UHD 4k, SUHD TV, 2160P, and Ultra UDTV.
 Making sure that your device settings are set up to display in 3840x2160 at 60 Hz, 50 Hz or 24 Hz will ensure that your television is ready when the device is plugged in. The most common names for setting up this resolution are ultra HD deep color, ultra HD premium and UHD color. 
