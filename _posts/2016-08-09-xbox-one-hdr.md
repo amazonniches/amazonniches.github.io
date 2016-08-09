@@ -17,6 +17,7 @@ The XBOX One S features an ultra HD Blu-ray device, the ability to display in 4K
 The newest version of the Xbox One S does have the ability to display in 4K HDR. Due to hardware limitations, older versions of Xbox One can only possibly accomodate 1080p SDR (Standard Dynamic Range).
 
 
+
 ### A 4K HDR Compatible Television
 
 As HDR support for most TVs are still limited, your best bet at determining HDR capability of your television is the packaging, manual, or much better, the Internet. Popular HDR TVs include Sony [XBR55X850D](http://amzn.to/2bc52HI), LG [65UH6150](http://amzn.to/2bc4OQP), and Samsung [UN60KU6300](http://amzn.to/2aIUphb). If you plan to maximize your Xbox's gaming/media capabalities, we suggest you also grab one of these TVs.
@@ -30,4 +31,4 @@ Not so fast. Just because you have an HDR compatible TV and a brand-new Xbox One
 
 
 ### Takeaway
-As we have written in another [article](http://www.myhdrtv.com/blog/2016/08/09/HDR-and-war.html), 4K HDR is still filled with controversial disputes between manufacturers and content creators. And it is precisely these controversies that make it more exciting piece of innovation.
+As we have written in another [article](http://www.myhdrtv.com/blog/2016/08/09/HDR-and-war.html), 4K HDR is still filled with controversial disputes between manufacturers and content creators. Xbox One S could only disrupt and intensify these controversies as manufacturers and content creators fight each other for market shares from the gamers. It is precisely these controversies that make HDR a more exciting piece of innovation.
