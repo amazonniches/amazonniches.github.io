@@ -14,7 +14,10 @@ The XBOX One S features an ultra HD Blu-ray device, the ability to display in 4K
 
 ### The device
 
+![Xbox One S](http://myhdrtv.com/static/3b.jpg)
+
 The newest version of the Xbox One S does have the ability to display in 4K HDR. Due to hardware limitations, older versions of Xbox One can only possibly accomodate 1080p SDR (Standard Dynamic Range).
+
 
 
 
